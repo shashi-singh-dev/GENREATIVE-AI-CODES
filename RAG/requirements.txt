@@ -1,0 +1,7 @@
+openai
+python-dotenv
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-openai
+langchain-qdrant
